@@ -1,6 +1,6 @@
 # Langs
 
-Credits to https://github.com/adlawson/. I've just made it pure json, so you can use this with PHP or other languages.
+Credits to https://github.com/adlawson/nodejs-langs. I've just made it pure json, so you can use this with PHP or other languages.
 
 ## What's with all the ISO version numbers?
 ISO 639 is broken up into many different parts, each either defining language
